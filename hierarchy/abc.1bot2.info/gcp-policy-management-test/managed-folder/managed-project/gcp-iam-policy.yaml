@@ -5,5 +5,5 @@ metadata:
 spec:
   bindings:
   - members:
-    - user:ttt@google.com
-    role: roles/viewer
+    - user:cflewis@google.com
+    role: roles/editor
